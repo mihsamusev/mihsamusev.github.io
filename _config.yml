@@ -15,17 +15,17 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "dk-DK"
+locale                   : "en-US"
 title                    : "Mihhail Samusev"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Mihhail Samusev"
-description              : "Hello! Im a researcher, self-taught coder, ex structural engineer, technology enthusiast and climber. Welcome to my portfolio page!"
+description              : 
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/mihsamusev"
+repository               : #"https://github.com/mihsamusev"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/ms.jpg"
+logo                     : #"/assets/images/ms.jpg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -93,30 +93,22 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  name             : "Mihhail Samusev"
+  avatar           : "/assets/images/ms.jpg"
+  bio              : "Hello! Im a researcher, self-taught coder, ex structural engineer, technology enthusiast and climber. Welcome to my portfolio page!"
+  location         : "Aalborg, Denmark"
+  email            : "mih.samusev@gmail.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+    - label: "Linkedin"
+      icon: "Linkedin"
+      url: "https://www.linkedin.com/in/mihhail-samusev-0b409b81/"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      icon: "mihsamusev"
+      url: "https://github.com/mihsamusev"
+
 
 # Site Footer
 footer:
