@@ -99,14 +99,11 @@ author:
   location         : "Aalborg, Denmark"
   email            : "mih.samusev@gmail.com"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
     - label: "Linkedin"
-      icon: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/mihhail-samusev-0b409b81/"
     - label: "GitHub"
-      icon: "mihsamusev"
+      icon: "fab fa-fw fa-github"
       url: "https://github.com/mihsamusev"
 
 
@@ -271,3 +268,12 @@ defaults:
       comments: # true
       share: true
       related: true
+
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
