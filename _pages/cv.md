@@ -2,9 +2,11 @@
 title: "CV"
 permalink: /cv/
 ---
+tut cv bro
 
+<!---
 ## WORK EXPERIENCE
-#Research assistant at Aalborg University, Aalborg, Denmark, 08/2019 – present
+# Research assistant at Aalborg University, Aalborg, Denmark, 08/2019 – present
 Position at traffic research group. Developing algorithms and software in Python and C++ for traffic measurements, object detection and tracking using camera, radar and lidar.
 
 # Research assistant at Aalborg University, Aalborg, Denmark, 08/2018 – 07/2019
@@ -34,4 +36,5 @@ Danish   |  B2 – intermediate | Danskuddannelse 3 modul 5 exam
 English  |  C1 – advanced      | IELTS 7.0
 Russian  |  native language |
 Estonian |  B2 – intermediate   | Gymnasium final exam
+--->
 
