@@ -1,10 +1,10 @@
 ---
-title: "Resume"
+title: "RESUME"
 classes: wide
 permalink: /cv/
 ---
 
-[Download a PDF Version](/docker-compose.yml){: .btn .btn--primary}
+[Download a PDF Version](/assets/pdf/CV_2020_EN.pdf){: .btn .btn--primary}
 
 Seeking a PhD position where I can apply my skills and experience in research, computational methods and algorithm development.
 
@@ -42,7 +42,7 @@ Great results with a course average grade of 11/12. 18 ECTS bachelor thesis on t
 
 Six month applied computer vision course covering theory and implementation of systems for solving real-life problems regarding image classification, object detection, face recognition, content based image retrieval, automatic license plate recognition, deep learning for computer vision.
 
-## LANGUAGE SKILLS (In common European framework CERF)
+## LANGUAGE SKILLS
 
 | Language | Level              | Based on exam                     |
 | -------- | ------------------ | --------------------------------- |
