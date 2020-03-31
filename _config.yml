@@ -22,7 +22,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : ""
 description              : 
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+baseurl                  : "/" # the subpath of your site, e.g. "/blog"
 repository               : # websites repo "https://github.com/mihsamusev"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : #"/assets/images/ms.jpg"
@@ -116,13 +116,6 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/mihsamusev"
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url: 
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-
 
 # Reading Files
 include:
