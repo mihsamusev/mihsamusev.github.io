@@ -24,7 +24,7 @@ description              :
 url                      : "https://mihsamusev.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # websites repo "https://github.com/mihsamusev"
-teaser                   : "/assets/images/logo.png"
+teaser                   : #"/assets/images/logo.png"
 logo                     : "/assets/images/logo.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
