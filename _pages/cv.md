@@ -1,5 +1,5 @@
 ---
-title: "RESUME"
+title: "CV"
 classes: wide
 permalink: /cv/
 ---

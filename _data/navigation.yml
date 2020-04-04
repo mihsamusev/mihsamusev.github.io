@@ -1,10 +1,10 @@
 # main links
 main:
-  - title: "RESUME"
+  - title: "CV"
     url: /cv/
   - title: "PORTFOLIO"
     url: /projects/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+  - title: "POSTS"
+    url: /posts/
   # - title: "Sitemap"
   #   url: /sitemap/

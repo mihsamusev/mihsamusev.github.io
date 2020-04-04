@@ -11,8 +11,8 @@ header:
 
 Посетить качественный стрэч моего братишки?
 
-[Поiхалi!](https://www.twitch.tv/qadex_){: .btn .btn--primary}
-[Да не](https://coub.com/view/2ajaos){: .btn .btn--primary}
+[Поiхалi!](https://www.twitch.tv/qadex_){: .btn .btn--primary .btn--x-large .btn--success}
+[Да не](https://coub.com/view/2ajaos){: .btn .btn--primary .btn--x-large .btn--danger}
 <!---
 https://coub.com/view/12u1l9)
 -->

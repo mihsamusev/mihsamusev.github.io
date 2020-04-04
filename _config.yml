@@ -24,8 +24,8 @@ description              :
 url                      : "https://mihsamusev.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # websites repo "https://github.com/mihsamusev"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : #"/assets/images/ms.jpg"
+teaser                   : "/assets/images/logo.png"
+logo                     : "/assets/images/logo.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -51,7 +51,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-search                   : # true, false (default)
+search                   : true #, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
 algolia:
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Mihhail Samusev"
   avatar           : "/assets/images/ms.jpg"
-  bio              : "Hello! Im a researcher, self-taught coder, ex structural engineer, technology enthusiast and climber. Welcome to my portfolio page!"
+  bio              : "Hello! Im a research assistant working with computer vision, self-taught coder, ex structural engineer, technology enthusiast and climber. Welcome to my portfolio page!"
   location         : "Aalborg, Denmark"
   email            : "mih.samusev@gmail.com"
   links:
@@ -241,10 +241,18 @@ compress_html:
   ignore:
     envs: development
 
+# Collections
+collections:
+  posts:
+    output: true
+    permalink: /:collection/:path/
+  projects:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
-  # _posts
+  # _posts for blog
   - scope:
       path: ""
       type: posts
@@ -256,11 +264,21 @@ defaults:
       share: true
       related: true
 
-  # _pages
+  # _pages like archive pages for projects, blogs and CV
   - scope:
       path: ""
       type: pages
     values:
       layout: single
       author_profile: true
+
+  # _projects for 
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: single
+      author_profile: false
+      read_time: true
+      share: true
 
