@@ -84,4 +84,7 @@ SQL
 | Russian  |  native language   |                                   |
 | Estonian |  B2 – intermediate | Gymnasium final exam              |
 
+## ACTIVITIES / INTERESTS
+Playing bass guitar, climbing, hiking, audiobooks, puzzles & problem solving
+
 
