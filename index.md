@@ -22,7 +22,7 @@ feature_row3:
     url: "/posts/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/ms_big.jpg
+  - image_path: /assets/images/ms_big2.jpg
     title: My CV
     excerpt: "Check out my career path and expertise. Should we become colleagues?"
     url: "/cv/"
