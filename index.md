@@ -8,7 +8,7 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/bg2.jpeg
 excerpt: >
-  Hello! I`m ex-structural engineer turned self-taught programmer, technology enthusiast, rock climber and bass player. Welcome to my portfolio page!
+  Hello! I`m ex-civil engineer turned self-taught programmer, technology enthusiast, rock climber and bass player. Welcome to my portfolio page!
 feature_row3:
   - image_path: /assets/images/lidar_teaser.png
     title: My projects
@@ -22,7 +22,7 @@ feature_row3:
     url: "/posts/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/ms.jpg
+  - image_path: /assets/images/ms_big.jpg
     title: My CV
     excerpt: "Check out my career path and expertise. Should we become colleagues?"
     url: "/cv/"
