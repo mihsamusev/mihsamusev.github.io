@@ -6,9 +6,7 @@ permalink: /cv/
 
 [Download a PDF Version](/assets/pdf/CV_2020_EN.pdf){: .btn .btn--primary}
 
-Looking for a full time software developer position to contribute with my skills.
-
-Emphasize self-taught!
+Though trained as a structural engineer, I have always been fascinated by simulation and research software. In my short career I have worked at three research institutions and developed data analysis / simulation tools across different disciplines, including structural health monitoring, transport sensor data analysis, and fishing gear simulation. My greatest strength, given how different the areas were, is my ability to learn quickly and apply new knowledge as I go. At the end of 2021, I decided to follow my passion and commit 100% to software development. I'm currently looking for my first full-time programmer job. If you're interested in my skill set, please reach out at mih.samusev@gmail.com.
 
 {: style="text-align: justify;"}
 
@@ -85,6 +83,4 @@ SQL
 | Estonian |  B2 – intermediate | Gymnasium final exam              |
 
 ## ACTIVITIES / INTERESTS
-Playing bass guitar, climbing, hiking, audiobooks, puzzles & problem solving
-
-
+Playing bass guitar, climbing, hiking, sport science, audiobooks, puzzles & problem solving.

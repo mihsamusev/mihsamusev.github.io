@@ -18,7 +18,7 @@ feature_row3:
     btn_label: "Learn more"
   - image_path: /assets/images/posts.jpg
     title: My posts
-    excerpt: "Visit the posts where i share failures and sucesses of both my techical and non technical hobbies."
+    excerpt: "Visit the posts where i share failures and sucesses of both my techical and non-technical hobbies."
     url: "/posts/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
