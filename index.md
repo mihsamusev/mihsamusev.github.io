@@ -6,23 +6,23 @@ exclude_from_search: true
 permalink: /
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/bg.jpg
+  overlay_image: /assets/images/bg2.jpeg
 excerpt: >
   Hello! I`m ex-structural engineer turned self-taught programmer, technology enthusiast, rock climber and bass player. Welcome to my portfolio page!
 feature_row3:
-  - image_path: /assets/images/projects.jpg
+  - image_path: /assets/images/lidar_teaser.png
     title: My projects
     excerpt: "Take a look at my work related and hobby software projects."
     url: "/projects/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/posts.jpg
+  - image_path: /assets/images/hobbies.jpg
     title: My posts
     excerpt: "Visit the posts where i share failures and sucesses of both my techical and non-technical hobbies."
     url: "/posts/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/joker.jpg
+  - image_path: /assets/images/ms.jpg
     title: My CV
     excerpt: "Check out my career path and expertise. Should we become colleagues?"
     url: "/cv/"
