@@ -38,7 +38,7 @@ In the axis-symmetric models, the equilibrium shape of the cod-end can be obtain
 equilibrium of the nodes belonging to one row of twines called meridian. All other rows of twines in the cod-end circumference will have the same shape as the meridian due to the
 axis-symmetry assumption. The twines are modelled ad bar elements with linear tension stiffness and 0 compression stiffenss. {: style="text-align: justify;"}
 
-![](../assets/project2/aximodel.png)
+![a](../assets/project2/aximodel.png)
 
 ## 3d model
 The 3d model is based on the planar triangular
@@ -46,14 +46,14 @@ elements developed by Daniel Priour. Triangular elements offer high flexibility 
 and numerical calculation aspects. The key difference compared to a classic constant / linear strain triangles is the formulation where the element works as a super element that combined all the effects of the twines contained within it. This allows to avoid the problems typical for the models where individual physical twines are modeled by
 bar elements also known as numerical twines. At the same time the stiffenss of the element depends on the average deformation of the contained netting twines in 2 directions and can be 0 for the direction where the netting is in comression.
 {: style="text-align: justify;"}
-![](../assets/project2/3dmodel_mesh.png)
-![](../assets/project2/3dmodel.png)
+![b](../assets/project2/3dmodel_mesh.png)
+![c](../assets/project2/3dmodel.png)
 
 ## Validation
 The models were validated against the physical codend model carried out in the flume tank at SINTEFF OCEAN based in Hirtshals Denmark.
 {: style="text-align: justify;"}
-![](../assets/project2/experiment.png)
-![](../assets/project2/comparison.png)
+![d](../assets/project2/experiment.png)
+![e](../assets/project2/comparison.png)
 
 ## Source code
 The old source code for [axis-symetric model](https://github.com/mihsamusev/AxiCodend) and [3d model](https://github.com/mihsamusev/CodendOOP) is currently being refactored and merged into a single well tested and easy to build opencource C# library.
