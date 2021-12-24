@@ -52,26 +52,19 @@ Courses passed with an average grade of 11 / 12. Interest in structures with cha
 
 ## RELEVANT COURSES
 
-**Deep Learning**
-
-**Reinforcement Learning**
-
 **PyImageSearch Gurus, 06/2019 – 12/2019**
 
 Six month [applied computer vision course](https://www.pyimagesearch.com/pyimagesearch-gurus/) covering theory and Python implementation of systems for solving real-life problems regarding image classification, object detection, face recognition, content based image retrieval, automatic license plate recognition, deep learning for computer vision. 
 {: style="text-align: justify;"}
 
-Knowledge realized in the following selfstudy projects:
-[tinycam]() - CLI for rectilinear and fisheye camera callibration. 
-{: style="text-align: justify;"}
-
 ## COMPUTER SKILLS
 - Python
-- Git + CD/CI
+- git and CI/CD with Github workflows
 - Test driven development
+- C# and .NET Core
 - MATLAB
-- SQL
-- C++
+- SQL with PostgreSQL
+- C++ and CMake
 
 ## LANGUAGE SKILLS
 

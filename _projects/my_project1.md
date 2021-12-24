@@ -14,5 +14,16 @@ excerpt: "pylidartracker is a traffic analysis software for pre-processing point
   <img src="/assets/images/lidar_teaser.png" alt="this is a placeholder image">
 </figure>
 
-It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
+`pylidartracker` is a desktop traffic analysis software for pre-processing point cloud videos captured by a static VelodyneHDL LiDAR (so far only HDL32). Pre-processed clouds can be clustered into road users whose tracks that can be exported for fruther analysis. The software is developed at Aalborg University Denmark, [Traffic Research Group](https://vbn.aau.dk/en/organisations/forskningsgruppen-for-trafik-civil/persons/). To try the application, visit the associated [github page](https://github.com/mihsamusev/pylidartracker).
+
+![GitHub](https://img.shields.io/github/license/mihsamusev/pylidartracker)
+![PyPI](https://img.shields.io/pypi/v/pylidartracker)
+
+## Features
+- Open UDP Network stream `.pcap` files captured by Velodyne for preview.
+- pre-processing/editing in terms of coordinate transformation, clipping, background subtraction, clustering and cluster tracking.
+- Save project configuration files that can be appled to the files from similar experimental setup to improve reproducibility and avoid repetitive steps in the analysis proccess.
+- Output `.json` file with detected road user ID, time and position per point cloud video frame.
 {: style="text-align: justify;"}
+
+![Preview](../assets/project1/preview.gif)
