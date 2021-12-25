@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Little things i dont mind sharing"
+title: "Little things i don't mind sharing"
 permalink: /posts/
 collection: posts
 

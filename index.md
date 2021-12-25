@@ -30,7 +30,7 @@ feature_row3:
     btn_label: "Learn more"
 ---
 
-On this page i share my latest projects, both professional and hobby related. Smaller bits and pieces of learning and getting better at my hobbies will get to the blog posts. If you want to collaborate or hire me check out my CV and reach out using Email or Linkedin.
+On this page I share my latest projects, both professional and hobby related. Smaller bits and pieces of learning and getting better at my hobbies will get to the blog posts. If you want to collaborate or hire me check out my CV and reach out using Email or Linkedin.
 {: .text-center}
 
 {% include feature_row id="feature_row3" %}
