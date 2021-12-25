@@ -13,17 +13,17 @@ Though trained as a structural engineer, I have always been fascinated by simula
 
 **Research assistant - Aalborg University, Aalborg, Denmark, 08/2019 – 11/2021**
 
-Position in traffic data analysis group. Writting data processing pipelines for qualitative and quantitative traffic research. Teaching Python and SQL. Notable projects: 
+Position in traffic data analysis group. Writing data processing pipelines for qualitative and quantitative traffic research. Teaching Python and SQL. Notable projects: 
 - Offline LiDAR data editing and visualization program [pylidartracker](https://github.com/mihsamusev/pylidartracker) and its library version [pylidarlib](https://github.com/mihsamusev/pylidarlib) used in the master thesis by a student - _LiDAR for cyclist detection_. [See here](https://projekter.aau.dk/projekter/da/studentthesis/lidar-til-cykeldetektering(da74f7e5-656d-4d62-ac8f-4fe09523d9f0).html).
 - Automated timed mailing service [easemail](https://github.com/TRG-BUILD/easemailing) for speeding intervention project EASE.
 - Was responsible for teaching Python during 2 courses. Python and SQL for traffic data analysis. Microscopic traffic simulation based on [Eclipse SUMO](https://www.eclipse.org/sumo/) and Python. Materials can be found [here](https://github.com/TRG-BUILD/sumo_course/tree/master/course2021).
 
-Last year in status of a PhD student working on intelligent traffic control in collaboration with Computer Science department at AAU. Resulted in two Python based projects. [strategoutil](https://github.com/mihsamusev/strategoutil) was developed as a Python API for the [UPPAAL Stratego](https://people.cs.aau.dk/~marius/stratego/) to enable model predictive control. (Paper in review). [sumotlslab](https://github.com/mihsamusev/sumotlslab) was an attempt to build a benchmarking environment based on SUMO for comparing traffic controllers. 
+Last year as a PhD student working on intelligent traffic control in collaboration with the Computer Science department at AAU. Resulted in two Python based projects. [strategoutil](https://github.com/mihsamusev/strategoutil) was developed as a Python API for the [UPPAAL Stratego](https://people.cs.aau.dk/~marius/stratego/) to enable model predictive control. (Paper in review). [sumotlslab](https://github.com/mihsamusev/sumotlslab) was an attempt to build a benchmarking environment based on SUMO for comparing traffic controllers.
 {: style="text-align: justify;"}
 
 **Research assistant - Aalborg University, Aalborg, Denmark, 08/2018 – 07/2019**
 
-Researched computational methods in structural health monitoring. Proposed the [MATLAB toolbox](https://www.mathworks.com/matlabcentral/fileexchange/68988-shmtoolbox) to pipeline numerical modelling of vibrating structures, signal processing for extraction of damage sensitive features and machine learning methods for damage detection. The toolbox was used in [the paper](https://vbn.aau.dk/en/publications/a-numerical-study-of-vibration-based-scour-detection-in-offshore-) about scour detection around offshore monopiles. Co-supervised master thesis in the subjects of structural dynamics and time-series modelling.
+Researched computational methods in structural health monitoring. Proposed the [MATLAB toolbox](https://www.mathworks.com/matlabcentral/fileexchange/68988-shmtoolbox) to pipeline numerical modeling of vibrating structures, signal processing for extraction of damage sensitive features and machine learning methods for damage detection. The toolbox was used in [the paper](https://vbn.aau.dk/en/publications/a-numerical-study-of-vibration-based-scour-detection-in-offshore-) about scour detection around offshore monopiles. Co-supervised master thesis in the subjects of structural dynamics and time-series modeling.
 {: style="text-align: justify;"}
 
 **Laboratory technician - SINTEF Ocean, Hirtshals, Denmark, 07/ 2017 – 06/2018**
@@ -45,9 +45,7 @@ Courses passed with an average grade of 10.8 / 12. Interest in computer simulati
 
 **BEng Structural & Civil Engineering - VIA UC, Horsens Denmark, 08/ 2012 – 02/2016**
 
-Courses passed with an average grade of 11 / 12. Interest in structures with challenging geometry realized in following projects: Semester project on geodesic dome generation -  [Poster: Geodesic dome](/assets/pdf/BA_geosphere_poster_2015.pdf). Bachelor thesis on the topic - _FEM modeling, programming, parametric design and wind tunnel testing of a bridge with irregular geometry_ graded 12 / 12. [Poster: Irregular geometry bridge](/assets/pdf/BA_bridge_poster_2016.pdf). Additionally, assisted in the researh laboratory Bygholm, Horsens on a project dealing with outdoor testing of interaction between wind and salt spreading patterns of winter trucks [See paper](http://www.nordfou.org/knowledge/Documents/EPAS%20Report%2016%20Wind%20exposure%2006nov2015.pdf).
-
-
+Courses passed with an average grade of 11 / 12. Interest in structures with challenging geometry realized in following projects: Semester project on geodesic dome generation -  [Poster: Geodesic dome](/assets/pdf/BA_geosphere_poster_2015.pdf). Bachelor thesis on the topic - _FEM modeling, programming, parametric design and wind tunnel testing of a bridge with irregular geometry_ graded 12 / 12. [Poster: Irregular geometry bridge](/assets/pdf/BA_bridge_poster_2016.pdf). Additionally, assisted in the research laboratory Bygholm, Horsens on a project dealing with outdoor testing of interaction between wind and salt spreading patterns of winter trucks [See paper](http://www.nordfou.org/knowledge/Documents/EPAS%20Report%2016%20Wind%20exposure%2006nov2015.pdf).
 {: style="text-align: justify;"}
 
 ## RELEVANT COURSES
