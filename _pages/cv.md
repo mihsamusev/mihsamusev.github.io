@@ -6,7 +6,7 @@ permalink: /cv/
 
 [comment]: <> ([Download a PDF Version](/assets/pdf/CV_2020_EN.pdf){: .btn .btn--primary})
 
-Though trained as a structural engineer, I have always been fascinated by simulation and research software. In my short career I have worked at three research institutions and developed data analysis / simulation tools across different disciplines, including structural health monitoring, transport sensor data analysis, and fishing gear simulation. My greatest strength, given how different the areas were, is my ability to learn quickly and apply new knowledge as I go. At the end of 2021, I decided to follow my passion and commit 100% to software development. I'm currently looking for my first full-time programmer job. If you're interested in my skill set, please reach out at *mih.samusev@gmail.com*.
+Though trained as a structural engineer, I have always been fascinated by simulation and research software. In my career I have worked at three research institutions and developed data analysis / simulation tools across different disciplines, including structural health monitoring, transport sensor data analysis, and fishing gear simulation. My greatest strength, given how different the areas were, is my ability to learn quickly and apply new knowledge as I go. At the end of 2021, I decided to follow my passion and commit 100% to software development. I'm currently looking for my first full-time programmer job. If you're interested in my skill set, please reach out at *mih.samusev@gmail.com*.
 {: style="text-align: justify;"}
 
 ## WORK EXPERIENCE
@@ -50,8 +50,15 @@ Courses passed with an average grade of 11 / 12. Interest in structures with cha
 
 ## RELEVANT COURSES
 
-**PyImageSearch Gurus, 06/2019 – 12/2019**
+**Reinforcement Learning Specialization, 09/2020 - 10/2020**
+A [Coursera](https://www.coursera.org/specializations/reinforcement-learning) specialization in collaboration with Alberta University where I learn how to build and train a decision making and planning systems based on reinforcement learning. The course helped to build understanding of core RL algorithms and how they fit under the broader umbrella of machine learning. 
+{: style="text-align: justify;"}
 
+**Deep Learning Specialization, 07/2020 - 9/2020**
+Classic [Coursera](https://www.coursera.org/specializations/deep-learning) deep learning course brought by Andrew NG and deeplearning.ai where I built the fundamentals of creating, training, tuning and testing deep learning models in TensorFlow. The course covered key architectures from the fields of computer vision and natural language processing.
+{: style="text-align: justify;"}
+
+**PyImageSearch Gurus, 06/2019 – 12/2019**
 Six month [applied computer vision course](https://www.pyimagesearch.com/pyimagesearch-gurus/) covering theory and Python implementation of systems for solving real-life problems regarding image classification, object detection, face recognition, content based image retrieval, automatic license plate recognition, deep learning for computer vision. 
 {: style="text-align: justify;"}
 
