@@ -11,6 +11,7 @@ Though trained as a structural engineer, I have always been fascinated by simula
 
 ## WORK EXPERIENCE
 **Software Engineer - Blue Power Partners, Aalborg, Denmark, 02.2022 - current**
+
 Development and support of modelling tools for origination and evaluation of business scenarios for techno-commercial _Power-to-X (PtX)_ projects. Main tasks:
 - Monitoring anad refactoring legacy code to support growing flexibility in business scenario definitions for a PtX plant.
 - Isolation and packaging of repetitive modelling tasks into Python libraries and command line tools to provide heigher reusability and testability of common business logic components. 
