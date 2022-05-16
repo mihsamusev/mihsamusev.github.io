@@ -10,15 +10,19 @@ Though trained as a structural engineer, I have always been fascinated by simula
 {: style="text-align: justify;"}
 
 ## WORK EXPERIENCE
+**Software Engineer - Blue Power Partners, Aalborg, Denmark, 02.2022 - current**
+Development and support of modelling tools for origination and evaluation of business scenarios for techno-commercial _Power-to-X (PtX)_ projects. Main tasks:
+- Monitoring anad refactoring legacy code to support growing flexibility in business scenario definitions for a PtX plant.
+- Isolation and packaging of repetitive modelling tasks into Python libraries and command line tools to provide heigher reusability and testability of common business logic components. 
 
 **Research assistant - Aalborg University, Aalborg, Denmark, 08/2019 – 11/2021**
 
-Position in traffic data analysis group. Writing data processing pipelines for qualitative and quantitative traffic research. Teaching Python and SQL. Notable projects: 
+Position in traffic data analysis group. Writing data processing pipelines for qualitative and quantitative traffic research. Teaching Python and SQL. Notable opensource projects: 
 - Offline LiDAR data editing and visualization program [pylidartracker](https://github.com/mihsamusev/pylidartracker) and its library version [pylidarlib](https://github.com/mihsamusev/pylidarlib) used in the master thesis by a student - _LiDAR for cyclist detection_. [See here](https://projekter.aau.dk/projekter/da/studentthesis/lidar-til-cykeldetektering(da74f7e5-656d-4d62-ac8f-4fe09523d9f0).html).
 - Automated timed mailing service [easemail](https://github.com/TRG-BUILD/easemailing) for speeding intervention project EASE.
 - Was responsible for teaching Python during 2 courses. Python and SQL for traffic data analysis. Microscopic traffic simulation based on [Eclipse SUMO](https://www.eclipse.org/sumo/) and Python. Materials can be found [here](https://github.com/TRG-BUILD/sumo_course/tree/master/course2021).
 
-Last year as a PhD student working on intelligent traffic control in collaboration with the Computer Science department at AAU. Resulted in two Python based projects. [strategoutil](https://github.com/mihsamusev/strategoutil) was developed as a Python API for the [UPPAAL Stratego](https://people.cs.aau.dk/~marius/stratego/) to enable model predictive control. (Paper in review). [sumotlslab](https://github.com/mihsamusev/sumotlslab) was an attempt to build a benchmarking environment based on SUMO for comparing traffic controllers.
+Last year as a PhD student working on intelligent traffic control in collaboration with the Computer Science department at AAU. Resulted in two Python based projects. [strategoutil](https://github.com/DEIS-Tools/strategoutil) was developed as a Python API for the [UPPAAL Stratego](https://people.cs.aau.dk/~marius/stratego/) to enable model predictive control. (Paper in review). [sumotlslab](https://github.com/mihsamusev/sumotlslab) was an attempt to build a benchmarking environment based on SUMO for comparing traffic controllers.
 {: style="text-align: justify;"}
 
 **Research assistant - Aalborg University, Aalborg, Denmark, 08/2018 – 07/2019**
@@ -62,14 +66,14 @@ Classic [Coursera](https://www.coursera.org/specializations/deep-learning) deep 
 Six month [applied computer vision course](https://www.pyimagesearch.com/pyimagesearch-gurus/) covering theory and Python implementation of systems for solving real-life problems regarding image classification, object detection, face recognition, content based image retrieval, automatic license plate recognition, deep learning for computer vision. 
 {: style="text-align: justify;"}
 
-## COMPUTER SKILLS
+## PROGRAMMING SKILLS
 - Python
+- Rust
 - git and CI/CD with Github workflows
 - Test driven development
 - C# and .NET Core
 - MATLAB
 - SQL with PostgreSQL
-- C++ and CMake
 
 ## LANGUAGE SKILLS
 
