@@ -27,7 +27,7 @@ Position in traffic data analysis group. Writing data processing pipelines for q
 - Automated timed mailing and survey aggregation service [easemail](https://github.com/TRG-BUILD/easemailing) for speeding intervention project EASE.
 - Was responsible for teaching Python during 2 courses. Python and SQL for traffic data analysis. Microscopic traffic simulation based on Eclipse SUMO and Python ([Course materials](https://github.com/TRG-BUILD/sumo_course/tree/master/course2021)).
 
-Last year as a PhD student working on intelligent traffic control in collaboration with the Computer Science department at AAU. Resulted in several python tools with the most notable - [strategoutil](https://github.com/DEIS-Tools/strategoutil) - a Python API for the [UPPAAL Stratego](https://people.cs.aau.dk/~marius/stratego/) to enable model predictive control between a UPPAAL based controller and an external simulator ([Paper](https://scholar.google.nl/citations?view_op=view_citation&hl=en&user=-22B4jIAAAAJ&citation_for_view=-22B4jIAAAAJ:YOwf2qJgpHMC)).
+Last year as a PhD student working on intelligent traffic control in collaboration with the Computer Science department at AAU. Resulted in several python tools with the most notable - [strategoutil](https://github.com/DEIS-Tools/strategoutil) - a Python API for the [UPPAAL Stratego](https://uppaal.org/features/#uppaal-stratego) to enable model predictive control between a UPPAAL based controller and an external simulator ([Paper](https://scholar.google.nl/citations?view_op=view_citation&hl=en&user=-22B4jIAAAAJ&citation_for_view=-22B4jIAAAAJ:YOwf2qJgpHMC)).
 {: style="text-align: justify;"}
 
 **Research assistant - Aalborg University, Aalborg, Denmark, 08/2018 – 07/2019**
